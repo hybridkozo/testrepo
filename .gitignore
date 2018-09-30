@@ -1,0 +1,6 @@
+# Ignore files called 'testall.txt'
+# testall.txt
+# Ignore the folder and the contents
+# giannis/
+# Ignore the directories named 'test' in any depth
+**/test/
